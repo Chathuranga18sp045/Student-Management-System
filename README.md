@@ -1,2 +1,2 @@
 # Student-Management-System
-Student Management System Using Laravel framework version 10 | Bootstrap 4 | MySQL
+Student Management System Using Laravel version 10 | Bootstrap 4 | MySQL
